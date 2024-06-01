@@ -1,1 +1,3 @@
-# 60-days-of-js-with-KUCC
+# 60 Days of JS With KUCC
+
+
